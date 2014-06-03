@@ -1,0 +1,5 @@
+C:\websites\dnndev.me\bin\CreateCourse.dll
+C:\websites\dnndev.me\bin\CreateCourse.pdb
+C:\websites\dnndev.me\DesktopModules\CreateCourse\obj\Debug\CreateCourse.csprojResolveAssemblyReference.cache
+C:\websites\dnndev.me\DesktopModules\CreateCourse\obj\Debug\CreateCourse.dll
+C:\websites\dnndev.me\DesktopModules\CreateCourse\obj\Debug\CreateCourse.pdb
