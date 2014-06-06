@@ -145,7 +145,7 @@ namespace Plugghest.Modules.CreateCourse {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DotNetNuke.UI.UserControls.TextEditor txtHtmlText;
+        protected global::System.Web.UI.WebControls.TextBox txtHtmlText;
         
         /// <summary>
         /// btnSubmit control.

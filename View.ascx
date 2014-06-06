@@ -2,7 +2,7 @@
 
 <%@ Register TagPrefix="dnn" TagName="label" Src="~/controls/LabelControl.ascx" %>
 <%@ Register TagPrefix="dnn" TagName="TextEditor" Src="~/controls/TextEditor.ascx" %>
-<script src="http://dnndev.me/Script/bPopup.js"></script>
+<script src="/DesktopModules/CreateCourse/Script/bPopup.js"></script>
 <script>
     $(document).ready(function () {
         $('#element_to_pop').hide();
@@ -148,7 +148,7 @@
                 <br />
 
                 <div class="dnnFormItem">
-                    <dnn:TextEditor ID="txtHtmlText" runat="server" Width="100%" Height="200px" />
+                    <asp:TextBox ID="txtHtmlText" runat="server" Width="100%" Height="200px" />
                 </div>
 
 

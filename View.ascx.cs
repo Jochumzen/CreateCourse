@@ -119,6 +119,7 @@ namespace Plugghest.Modules.CreateCourse
             ReadFromControls(cc, cis);
             try
             {
+                cc.TheCourse.CourseId = 0;
                 bh.CreateCourse(cc);  //Create CoursePage, Course and CourseItems (only Pluggs)
             }
             catch (Exception ex)
