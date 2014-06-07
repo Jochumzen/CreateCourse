@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CreateCourse.Text" xml:space="preserve">
-    <value>CreatePlugg</value>
+    <value>Create a new Course</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Description</value>

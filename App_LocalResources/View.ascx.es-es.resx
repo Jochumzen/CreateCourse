@@ -124,7 +124,7 @@
     <value>Comprobar</value>
   </data>
   <data name="CreateCourse.Text" xml:space="preserve">
-    <value>Crear Curso</value>
+    <value>Crear un nuevo Curso</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Descripción</value>
@@ -136,7 +136,7 @@
     <value>this is plugg description1</value>
   </data>
   <data name="Submit.Text" xml:space="preserve">
-    <value>Presentar</value>
+    <value>Guardar</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
     <value>Título</value>

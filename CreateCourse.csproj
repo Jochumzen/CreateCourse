@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0FD0B741-120E-40CC-BC88-2DA178FF1556}</ProjectGuid>
+    <ProjectGuid>{0864EFED-4392-43CA-8D9A-CC19D3BD309B}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -126,15 +126,17 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_LocalResources\View.ascx.en-us.resx" />
     <Content Include="App_LocalResources\View.ascx.es-es.resx" />
     <Content Include="App_LocalResources\View.ascx.sv-se.resx" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Plugghest\Plugghest.csproj">
+    <ProjectReference Include="..\..\Resources\PlugghestLib\Plugghest.csproj">
       <Project>{fb57af86-0993-4bbf-9281-784bf3232f41}</Project>
       <Name>Plugghest</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_LocalResources\View.ascx.en-us.resx" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

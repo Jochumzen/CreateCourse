@@ -124,7 +124,7 @@
     <value>Kontrollera</value>
   </data>
   <data name="CreateCourse.Text" xml:space="preserve">
-    <value>Skapa Kurs</value>
+    <value>Skapa en ny Kurs</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Beskrivning</value>
@@ -136,7 +136,7 @@
     <value>this is plugg description2</value>
   </data>
   <data name="Submit.Text" xml:space="preserve">
-    <value>Inkomma</value>
+    <value>Spara</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
     <value>Titel</value>
